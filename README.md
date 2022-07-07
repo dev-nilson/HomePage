@@ -1,7 +1,7 @@
 # HomePage
 
 ## 🍔 About
-Single-page animation to showcase products using componenets and conditional rendering.
+Single-page application to showcase products using componenets and conditional rendering.
 
 ## 🛠️ Technologies
 - HTML
